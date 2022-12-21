@@ -1,6 +1,6 @@
 [submodule "server-sent-events-be"]
 	path = server-sent-events-be
-	url = https://github.com/simoneschioppo/server-sent-events/server-sent-events-be
+	url = git@github.com:simoneschioppo/server-sent-events-be.git
 [submodule "server-sent-events-fe"]
 	path = server-sent-events-fe
-	url = https://github.com/simoneschioppo/server-sent-events/server-sent-events-fe
+	url = git@github.com:simoneschioppo/server-sent-events-be.git
